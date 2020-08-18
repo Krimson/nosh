@@ -1,3 +1,6 @@
+This repo has been moved to Bitbucket.
+https://bitbucket.org/appno/nosh/src/master/
+
 # NodeStream Shell
 
 NodeStream shell is a set of tools that can be used to easily get going with developing NodeStream-based profiles and projects.
